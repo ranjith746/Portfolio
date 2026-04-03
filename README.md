@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! 💼  
 This repository contains the source code for my portfolio site developed using HTML, CSS, and JavaScript.
 
-## Explore my portfolio : ranjith746.github.io/Portfolio/
+## Explore my portfolio : https://github.com/ranjith746/Portfolio
 
 ## 🚀 Demo
 
